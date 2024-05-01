@@ -1,5 +1,5 @@
                                             PROJECT REPORT
-
+You need to test the file agent_environment.py from the folder lab11
 
 AI Components in Game Development: Enhancing Player Experiences
 Abstract
